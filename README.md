@@ -66,4 +66,4 @@ chords are specified in a json
 ```
 ## Developer ##
 
-[@heberarratia](heberarratia.github.io)
+@heberarratia
